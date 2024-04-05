@@ -6,11 +6,10 @@ void main()
 	scanf("%d%d",&a,&b);
 	if(a<b)
 	{
-		printf("a is smaller than b");
-		
+		printf("smaller=%d",a);		
 	}
 	else
 	{
-		printf("b is smaller than a");
+		printf("smaller=%d",b);
 	}
 }
