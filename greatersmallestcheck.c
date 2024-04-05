@@ -6,10 +6,10 @@ void main()
 	scanf("%d%d",&a,&b);
 	if(a>b)
 	{
-		printf("a is greater than b");
+		printf("greater=%d"a);
 	}
 	else
 	{
-		printf("b is greater than a");
+		printf("grater=%d"b);
 	}
 }
