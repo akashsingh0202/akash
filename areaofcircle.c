@@ -2,7 +2,7 @@
 void main()
 {
 
-float radius, pi,area;  
+float radius,area;  
 const PI=3.14;
 printf("Enter the radius of the circle: ");  
 scanf("%f", &radius);  
